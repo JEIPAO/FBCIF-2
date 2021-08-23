@@ -1,0 +1,2 @@
+rootProject.name = "FBCIF-2"
+include ':app'
